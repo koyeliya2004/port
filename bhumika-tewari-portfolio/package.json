@@ -1,0 +1,28 @@
+{
+  "name": "bhumika-tewari-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio for Bhumika Tewari showcasing her professional summary, skills, work experience, major projects, education, certifications, virtual work simulations, and achievements.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "portfolio",
+    "bhumika tewari",
+    "react"
+  ],
+  "author": "Bhumika Tewari",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1"
+  }
+}
